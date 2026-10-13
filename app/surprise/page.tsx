@@ -271,7 +271,17 @@ export default function FinalPage() {
                 >
                   I hope you always know how loved you are. ❤️
                 </motion.p>
-              </motion.div>
+                  </motion.div>
+                  
+                  <motion.button
+  onClick={() => (window.location.href = "/gallery")}
+  className="mt-8 rounded-full border border-pink-200/40 bg-white/10 px-8 py-4 text-sm font-semibold text-white backdrop-blur-md transition hover:bg-white/20"
+  whileHover={{ scale: 1.05 }}
+  whileTap={{ scale: 0.95 }}
+>
+  View Our Gallery 📸
+  <span className="ml-2">♡</span>
+</motion.button>
 
               <motion.p
                 className="mt-12 text-xs text-pink-200/40"

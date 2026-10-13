@@ -9,7 +9,7 @@ const notes = [
     emoji: "🌸",
     title: "The little things",
     message:
-      "It's not always the big moments. Sometimes it's the smallest things you do that stay with me the longest.",
+      "All the little things you do to make me feel happy and loved matters.Sometimes it's the smallest things you do that stay with me the longest.",
   },
   {
     emoji: "🥹",
@@ -21,13 +21,13 @@ const notes = [
     emoji: "😂",
     title: "Our silly moments",
     message:
-      "Some of my favourite memories aren't even the planned ones. They're the random, ridiculous moments where we couldn't stop laughing.",
+      "Some of my favourite memories aren't even the planned ones. They're the random, ridiculous moments where we couldn't stop laughing(like our random trip memories).",
   },
   {
     emoji: "🫶",
     title: "The way you care",
     message:
-      "You have this way of caring that makes me feel safe, even when you don't realise you're doing it.",
+      "I am very grateful for the way you care about me . Your kindness and thoughtfulness never go unnoticed.",
   },
   {
     emoji: "🌙",
@@ -39,7 +39,7 @@ const notes = [
     emoji: "❤️",
     title: "And then there's us",
     message:
-      "Out of all the people in this world, I'm really glad that somehow our paths crossed.",
+      "Out of all the people in this world, I'm really glad that somehow our paths crossed.I am very grateful for bringing you into my life and for all the little moments we share together.",
   },
 ];
 

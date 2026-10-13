@@ -219,23 +219,23 @@ export default function LetterPage() {
                   transition={{ delay: 0.4 }}
                   className="text-lg"
                 >
-                  Dear you,
+                  Dear Karan,
                 </motion.p>
 
                 <LetterParagraph delay={0.8}>
-                  I don't think I say it enough, but having you in my life
+                  I don't think I say it enough and I even if I say I can't say it enough , but having you in my life
                   means more to me than I can properly put into words.
                 </LetterParagraph>
 
                 <LetterParagraph delay={1.5}>
-                  We've shared so many little moments together. Some were
-                  beautiful, some were completely silly, and some were moments
-                  that probably didn't seem important at the time.
+                  We've shared moments together. Some were
+                  beautiful, some were completely silly, and some were 
+                  downright embarrassing. But every single one of those moments
+                  has been a treasure to me.
                 </LetterParagraph>
 
                 <LetterParagraph delay={2.2}>
-                  But when I look back, those are the moments I remember the
-                  most.
+                    I want you to know that I see you. I see the effort you put into everything you do, the kindness you show to those around you, and the love you give so freely. You are truly one of a kind.
                 </LetterParagraph>
 
                 <LetterParagraph delay={2.9}>
@@ -245,12 +245,20 @@ export default function LetterPage() {
                 </LetterParagraph>
 
                 <LetterParagraph delay={3.6}>
-                  And selfishly, I hope I get to be there for many more of
+                  And selfishly, I hope I get to be there with you for many more of
                   those moments.
                 </LetterParagraph>
 
                 <LetterParagraph delay={4.3}>
-                  Thank you for being you. ❤️
+                  Thank you for being there for me ❤️ I love you more than words can say ❤️ Hope we can make more memories together and I hope I try to make you feel as special as you are to me ❤️
+                  </LetterParagraph>
+
+                  <LetterParagraph delay={4.8}>
+                 I also want to say that I am sorry for all the times I have hurt you and I promise to try to be a better person for you ❤️ I just want to let you know that I am always there for you ❤️ .
+                </LetterParagraph>
+                  
+                <LetterParagraph delay={4.8}>
+                  Happy Birthday Karan ❤️
                 </LetterParagraph>
 
                 <motion.div
@@ -259,10 +267,10 @@ export default function LetterPage() {
                   transition={{ delay: 5 }}
                   className="mt-12"
                 >
-                  <p className="text-lg">Happy Birthday,</p>
+                    <p className="text-lg">From Serii</p>
 
                   <p className="mt-2 text-3xl font-bold text-pink-600">
-                    With all my love ❤️
+                    With all my love ❤️ 
                   </p>
                 </motion.div>
               </div>

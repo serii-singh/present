@@ -188,7 +188,7 @@ export default function LandingPage() {
           </h1>
 
           <p className="mt-5 max-w-[240px] text-sm leading-6 text-pink-900/60">
-            Someone made something very special for you...
+           I have made something very special for you...
           </p>
 
           <motion.div

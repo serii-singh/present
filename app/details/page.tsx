@@ -6,39 +6,33 @@ import Link from "next/link";
 const memories = [
   {
     id: 1,
-    image: "/memories/memory1.jpg",
+    image: "/images/pic1.jpeg",
     caption: "That smile ❤️",
     rotate: -3,
   },
   {
     id: 2,
-    image: "/memories/memory2.jpg",
+    image: "/images/pic2.jpeg",
     caption: "One of my favourite days",
     rotate: 3,
   },
   {
     id: 3,
-    image: "/memories/memory3.jpg",
+    image: "/images/pic3.jpeg",
     caption: "Just us 🥹",
     rotate: -2,
   },
   {
     id: 4,
-    image: "/memories/memory4.jpg",
+    image: "/images/pic4.jpeg",
     caption: "This moment ✨",
     rotate: 4,
   },
   {
     id: 5,
-    image: "/memories/memory5.jpg",
+    image: "/images/pic5.jpeg",
     caption: "Always this happy",
     rotate: -4,
-  },
-  {
-    id: 6,
-    image: "/memories/memory6.jpg",
-    caption: "A memory I'll keep forever 💗",
-    rotate: 2,
   },
 ];
 
@@ -64,13 +58,13 @@ export default function MemoriesPage() {
           </p>
 
           <h1 className="mt-4 font-serif text-5xl font-bold text-pink-950 sm:text-7xl">
-            Our Memories
-            <span className="text-pink-500">. 📸</span>
+            Our first meeting....
+            <span className="text-pink-500"> 📸</span>
           </h1>
 
           <p className="mx-auto mt-5 max-w-xl text-sm leading-6 text-pink-950/60 sm:text-base">
-            A collection of little moments that somehow became some of my
-            favourite memories.
+            Little moments that somehow became my
+            favourite memories with you. I want to keep them forever.
           </p>
         </motion.div>
 

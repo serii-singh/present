@@ -37,6 +37,11 @@ const wishes = [
     title: "More together",
     text: "Whatever the future looks like, I just hope there is a lot more of us in it.",
   },
+   {
+    emoji: "❤️",
+    title: "More life together",
+    text: "Overall I wish we could spend more of life together ❤️",
+  },
 ];
 
 export default function MorePage() {
@@ -206,7 +211,7 @@ export default function MorePage() {
           </p>
 
           <p className="mt-6 text-sm text-pink-950/50">
-            And I hope we get to experience a lot of them together. ❤️
+            And I hope we get to experience them together. ❤️
           </p>
 
           <Link
